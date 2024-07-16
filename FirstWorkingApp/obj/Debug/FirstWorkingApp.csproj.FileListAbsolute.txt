@@ -1,0 +1,10 @@
+F:\Adams apps\FirstWorkingApp\bin\Debug\FirstWorkingApp.exe.config
+F:\Adams apps\FirstWorkingApp\bin\Debug\FirstWorkingApp.exe
+F:\Adams apps\FirstWorkingApp\bin\Debug\FirstWorkingApp.pdb
+F:\Adams apps\FirstWorkingApp\obj\Debug\FirstWorkingApp.csproj.AssemblyReference.cache
+F:\Adams apps\FirstWorkingApp\obj\Debug\FirstWorkingApp.Form1.resources
+F:\Adams apps\FirstWorkingApp\obj\Debug\FirstWorkingApp.Properties.Resources.resources
+F:\Adams apps\FirstWorkingApp\obj\Debug\FirstWorkingApp.csproj.GenerateResource.cache
+F:\Adams apps\FirstWorkingApp\obj\Debug\FirstWorkingApp.csproj.CoreCompileInputs.cache
+F:\Adams apps\FirstWorkingApp\obj\Debug\FirstWorkingApp.exe
+F:\Adams apps\FirstWorkingApp\obj\Debug\FirstWorkingApp.pdb
